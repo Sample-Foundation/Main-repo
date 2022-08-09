@@ -1,0 +1,6 @@
+[submodule "firebase-kotlin-sdk"]
+	path = firebase-kotlin-sdk
+	url = https://github.com/GitLiveApp/firebase-kotlin-sdk
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/Sample-Foundation/submodule
