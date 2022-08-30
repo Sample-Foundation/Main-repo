@@ -8,6 +8,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/firebase-kotlin-sdk" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -24,10 +29,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "app.teamhub.Diff-filters": "{\"pushedChanges\":true,\"unpushedChanges\":false,\"todo\":false,\"inProgress\":true,\"readyForReview\":true,\"stale\":true,\"forks\":true,\"offline\":true,\"nonConflicting\":false}",
+    "app.teamhub.Diff-filters": "{\"pushedChanges\":true,\"unpushedChanges\":true,\"todo\":false,\"inProgress\":true,\"readyForReview\":true,\"stale\":false,\"forks\":true,\"offline\":true,\"nonConflicting\":false}",
+    "app.teamhub.Gutter-options": "{\"stale\":true,\"forks\":true,\"offline\":true}",
     "app.teamhub.Repo-options": "{\"right\":\"TheirRemote\",\"stale\":true,\"forks\":true,\"offline\":true}",
-    "app.teamhub.Tree-filters": "{\"pushedChanges\":true,\"unpushedChanges\":true,\"todo\":true,\"inProgress\":true,\"readyForReview\":true,\"stale\":true,\"forks\":true,\"offline\":true,\"nonConflicting\":true}",
-    "app.teamhub.trackedBranches": "-42821n/master,-191h71f/master,-1c4lakk/first-branch,-1c4lakk/master",
+    "app.teamhub.Tree-filters": "{\"pushedChanges\":true,\"unpushedChanges\":true,\"todo\":false,\"inProgress\":true,\"readyForReview\":true,\"stale\":false,\"forks\":true,\"offline\":true,\"nonConflicting\":true}",
+    "app.teamhub.selectedTeam": "github.com/Sample-Foundation/submodule",
+    "app.teamhub.trackedBranches": "-42821n/master,-191h71f/master,-1clgifg/master",
     "last_opened_file_path": "/Users/agnieszkastec/code/GitLive-repos/Main-repo",
     "settings.editor.selected.configurable": "gitlive.settings"
   }
